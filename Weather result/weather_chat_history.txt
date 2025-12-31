@@ -1,0 +1,362 @@
+============================================================
+WEATHER CHAT HISTORY
+============================================================
+
+[1] YOU:
+Is it going to rain in London today?
+------------------------------------------------------------
+
+[2] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for London**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 3.7°C / Min 0.4°C
+
+* 💨 **Wind Speed**: 10.5 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 1.15
+
+* 🌅 **Sunrise**: 08:06
+
+* 🌇 **Sunset**: 16:01
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 5.6°C / 0.2°C, Wind: 18.6 km/h
+
+**2026-01-02**: 3.5°C / -0.4°C, Wind: 14.4 km/h
+
+**2026-01-03**: 1.6°C / -1.9°C, Wind: 13.7 km/h
+
+
+------------------------------------------------------------
+
+[3] YOU:
+What is the current weather in New York?
+------------------------------------------------------------
+
+[4] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for New York**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max -0.2°C / Min -3.7°C
+
+* 💨 **Wind Speed**: 24.1 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 2.4
+
+* 🌅 **Sunrise**: 07:19
+
+* 🌇 **Sunset**: 16:38
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 0.3°C / -7.6°C, Wind: 35.4 km/h
+
+**2026-01-02**: -0.1°C / -9.0°C, Wind: 21.3 km/h
+
+**2026-01-03**: 1.1°C / -3.2°C, Wind: 15.7 km/h
+
+
+------------------------------------------------------------
+
+[5] YOU:
+Give me a 3-day forecast for Tokyo.
+------------------------------------------------------------
+
+[6] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Tokyo**
+
+📅 **Date**: 2026-01-01
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 7.7°C / Min 1.5°C
+
+* 💨 **Wind Speed**: 6.1 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 2.95
+
+* 🌅 **Sunrise**: 06:51
+
+* 🌇 **Sunset**: 16:38
+
+
+**3-Day Forecast:**
+
+**2026-01-02**: 6.8°C / 0.4°C, Wind: 10.1 km/h
+
+**2026-01-03**: 8.8°C / -0.8°C, Wind: 7.4 km/h
+
+**2026-01-04**: 10.8°C / -0.1°C, Wind: 6.4 km/h
+
+
+------------------------------------------------------------
+
+[7] YOU:
+Are there any severe weather alerts in California right now?
+------------------------------------------------------------
+
+[8] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for California**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 9.2°C / Min -1.8°C
+
+* 💨 **Wind Speed**: 21.3 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 2.9
+
+* 🌅 **Sunrise**: 07:28
+
+* 🌇 **Sunset**: 16:58
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 3.8°C / -1.7°C, Wind: 17.6 km/h
+
+**2026-01-02**: 5.0°C / -2.7°C, Wind: 18.7 km/h
+
+**2026-01-03**: 5.8°C / -2.4°C, Wind: 10.6 km/h
+
+
+------------------------------------------------------------
+
+[9] YOU:
+When is sunrise in Paris tomorrow?
+------------------------------------------------------------
+
+[10] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Paris**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 5.1°C / Min -1.1°C
+
+* 💨 **Wind Speed**: 6.9 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 1.4
+
+* 🌅 **Sunrise**: 08:44
+
+* 🌇 **Sunset**: 17:03
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 4.1°C / -1.5°C, Wind: 12.4 km/h
+
+**2026-01-02**: 6.0°C / -0.0°C, Wind: 19.9 km/h
+
+**2026-01-03**: 3.2°C / -1.8°C, Wind: 12.6 km/h
+
+
+------------------------------------------------------------
+
+[11] YOU:
+What is the current wind speed in Chicago?
+------------------------------------------------------------
+
+[12] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Chicago**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 1.8°C / Min -8.4°C
+
+* 💨 **Wind Speed**: 23.5 km/h
+
+* ☔ **Precipitation**: 2.5 mm
+
+* ☀️ **UV Index**: 1.65
+
+* 🌅 **Sunrise**: 07:18
+
+* 🌇 **Sunset**: 16:29
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: -8.4°C / -10.9°C, Wind: 17.6 km/h
+
+**2026-01-02**: -3.4°C / -8.2°C, Wind: 9.9 km/h
+
+**2026-01-03**: -1.7°C / -5.3°C, Wind: 11.0 km/h
+
+
+------------------------------------------------------------
+
+[13] YOU:
+What is the current temperature in Dubai?
+------------------------------------------------------------
+
+[14] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Dubai**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 22.3°C / Min 19.5°C
+
+* 💨 **Wind Speed**: 30.8 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 5.15
+
+* 🌅 **Sunrise**: 07:04
+
+* 🌇 **Sunset**: 17:40
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 22.4°C / 15.7°C, Wind: 9.4 km/h
+
+**2026-01-02**: 22.9°C / 15.9°C, Wind: 14.5 km/h
+
+**2026-01-03**: 24.0°C / 16.2°C, Wind: 13.5 km/h
+
+
+------------------------------------------------------------
+
+[15] YOU:
+What is the current weather in New Delhi?
+------------------------------------------------------------
+
+[16] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for New Delhi**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 15.6°C / Min 9.2°C
+
+* 💨 **Wind Speed**: 7.4 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 3.7
+
+* 🌅 **Sunrise**: 07:13
+
+* 🌇 **Sunset**: 17:34
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 17.8°C / 11.5°C, Wind: 7.5 km/h
+
+**2026-01-02**: 18.8°C / 12.4°C, Wind: 6.7 km/h
+
+**2026-01-03**: 18.0°C / 9.6°C, Wind: 7.2 km/h
+
+
+------------------------------------------------------------
+
+[17] YOU:
+Is it sunny in Sydney right now?
+------------------------------------------------------------
+
+[18] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Sydney**
+
+📅 **Date**: 2026-01-01
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 21.7°C / Min 16.5°C
+
+* 💨 **Wind Speed**: 19.3 km/h
+
+* ☔ **Precipitation**: 0.1 mm
+
+* ☀️ **UV Index**: 8.4
+
+* 🌅 **Sunrise**: 05:48
+
+* 🌇 **Sunset**: 20:09
+
+
+**3-Day Forecast:**
+
+**2026-01-02**: 24.5°C / 14.4°C, Wind: 17.2 km/h
+
+**2026-01-03**: 27.8°C / 15.9°C, Wind: 19.2 km/h
+
+**2026-01-04**: 28.8°C / 18.5°C, Wind: 10.2 km/h
+
+
+------------------------------------------------------------
+
+[19] YOU:
+Is it raining in Chennai right now?
+------------------------------------------------------------
+
+[20] RATNESH AI WEATHER AGENT:
+🌤️ **Weather Report for Chennai**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 27.9°C / Min 23.6°C
+
+* 💨 **Wind Speed**: 8.5 km/h
+
+* ☔ **Precipitation**: 1.8 mm
+
+* ☀️ **UV Index**: 5.65
+
+* 🌅 **Sunrise**: 06:30
+
+* 🌇 **Sunset**: 17:53
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 28.0°C / 24.2°C, Wind: 9.1 km/h
+
+**2026-01-02**: 29.2°C / 23.4°C, Wind: 10.8 km/h
+
+**2026-01-03**: 29.0°C / 23.2°C, Wind: 11.5 km/h
+
+
+------------------------------------------------------------
+
+[21] YOU:
+massuri uttrakhand wether report
+------------------------------------------------------------
+
+[22] RATNESH AI WEATHER AGENT:
+❌ I couldn't identify a city name in your question. Please ask like: 'What's the weather in Paris?'
+------------------------------------------------------------
+

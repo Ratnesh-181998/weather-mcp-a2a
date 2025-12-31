@@ -1,0 +1,621 @@
+============================================================
+WEATHER CHAT HISTORY
+============================================================
+
+[1] YOU:
+What is the humidity in Singapore?
+------------------------------------------------------------
+
+[2] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Temasek, Singapore. Today's temperature will range from a low of 24.3°C to a high of 31.2°C. You can expect some precipitation today, with about 7.3mm of rainfall, so don't forget your umbrella! The wind will be blowing at 10.8 km/h, and the UV index is 5.45, so some sun protection would be wise. Have a great day in Temasek, Singapore!
+
+---
+
+🌤️ **Detailed Weather Report for Temasek, Singapore**
+
+📅 **Date**: 2026-01-01
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 31.2°C / Min 24.3°C
+
+* 💨 **Wind Speed**: 10.8 km/h
+
+* ☔ **Precipitation**: 7.3 mm
+
+* ☀️ **UV Index**: 5.45
+
+* 🌅 **Sunrise**: 07:06
+
+* 🌇 **Sunset**: 19:09
+
+
+**3-Day Forecast:**
+
+**2026-01-02**: 29.5°C / 24.7°C, Wind: 15.6 km/h
+
+**2026-01-03**: 29.8°C / 24.0°C, Wind: 15.9 km/h
+
+**2026-01-04**: 30.3°C / 23.8°C, Wind: 16.8 km/h
+
+
+------------------------------------------------------------
+
+[3] YOU:
+What is the current temperature in Berlin?
+------------------------------------------------------------
+
+[4] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Berlin, Germany. Today's temperature will range from a low of -2.8°C to a high of 3.1°C. You can expect some precipitation today, with about 1.8mm of rainfall, so don't forget your umbrella! The wind will be blowing at 14.4 km/h, and the UV index is 0.3, so UV exposure is minimal today. Have a great day in Berlin, Germany!
+
+---
+
+🌤️ **Detailed Weather Report for Berlin, Germany**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 3.1°C / Min -2.8°C
+
+* 💨 **Wind Speed**: 14.4 km/h
+
+* ☔ **Precipitation**: 1.8 mm
+
+* ☀️ **UV Index**: 0.3
+
+* 🌅 **Sunrise**: 08:17
+
+* 🌇 **Sunset**: 16:01
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 4.0°C / 1.7°C, Wind: 22.6 km/h
+
+**2026-01-02**: 2.5°C / 0.6°C, Wind: 24.3 km/h
+
+**2026-01-03**: 0.5°C / -3.0°C, Wind: 16.7 km/h
+
+
+------------------------------------------------------------
+
+[5] YOU:
+Is it snowing in Toronto?
+------------------------------------------------------------
+
+[6] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Toronto, Canada. Today's temperature will range from a low of -12.5°C to a high of -4.4°C. You can expect some precipitation today, with about 1.9mm of rainfall, so don't forget your umbrella! The wind will be blowing at 31.0 km/h, and the UV index is 1.75, so UV exposure is minimal today. Have a great day in Toronto, Canada!
+
+---
+
+🌤️ **Detailed Weather Report for Toronto, Canada**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max -4.4°C / Min -12.5°C
+
+* 💨 **Wind Speed**: 31.0 km/h
+
+* ☔ **Precipitation**: 1.9 mm
+
+* ☀️ **UV Index**: 1.75
+
+* 🌅 **Sunrise**: 07:51
+
+* 🌇 **Sunset**: 16:50
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: -9.1°C / -20.8°C, Wind: 22.6 km/h
+
+**2026-01-02**: -5.3°C / -11.6°C, Wind: 25.4 km/h
+
+**2026-01-03**: -4.9°C / -10.5°C, Wind: 15.0 km/h
+
+
+------------------------------------------------------------
+
+[7] YOU:
+Is it sunny in Sydney right now?
+------------------------------------------------------------
+
+[8] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Sydney, Australia. Today's temperature will range from a low of 16.5°C to a high of 21.7°C. You can expect some precipitation today, with about 0.1mm of rainfall, so don't forget your umbrella! The wind will be blowing at 19.3 km/h, and the UV index is 9.0, so make sure to wear sunscreen if you're heading outdoors. Have a great day in Sydney, Australia!
+
+---
+
+🌤️ **Detailed Weather Report for Sydney, Australia**
+
+📅 **Date**: 2026-01-01
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 21.7°C / Min 16.5°C
+
+* 💨 **Wind Speed**: 19.3 km/h
+
+* ☔ **Precipitation**: 0.1 mm
+
+* ☀️ **UV Index**: 9.0
+
+* 🌅 **Sunrise**: 05:48
+
+* 🌇 **Sunset**: 20:09
+
+
+**3-Day Forecast:**
+
+**2026-01-02**: 24.5°C / 14.4°C, Wind: 17.2 km/h
+
+**2026-01-03**: 27.8°C / 15.9°C, Wind: 19.2 km/h
+
+**2026-01-04**: 28.8°C / 18.5°C, Wind: 10.2 km/h
+
+
+------------------------------------------------------------
+
+[9] YOU:
+Give me a weather forecast for Hyderabad, India.
+------------------------------------------------------------
+
+[10] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Hyderabad, India. Today's temperature will range from a low of 13.6°C to a high of 28.4°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 4.1 km/h, and the UV index is 6.4, so make sure to wear sunscreen if you're heading outdoors. Have a great day in Hyderabad, India!
+
+---
+
+🌤️ **Detailed Weather Report for Hyderabad, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 28.4°C / Min 13.6°C
+
+* 💨 **Wind Speed**: 4.1 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 6.4
+
+* 🌅 **Sunrise**: 06:45
+
+* 🌇 **Sunset**: 17:52
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 28.3°C / 15.7°C, Wind: 7.4 km/h
+
+**2026-01-02**: 28.5°C / 17.5°C, Wind: 7.6 km/h
+
+**2026-01-03**: 28.0°C / 18.0°C, Wind: 12.9 km/h
+
+
+------------------------------------------------------------
+
+[11] YOU:
+Is it raining in Chennai right now?
+------------------------------------------------------------
+
+[12] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Chennai, India. Today's temperature will range from a low of 23.6°C to a high of 27.9°C. You can expect some precipitation today, with about 1.8mm of rainfall, so don't forget your umbrella! The wind will be blowing at 8.5 km/h, and the UV index is 5.65, so some sun protection would be wise. Have a great day in Chennai, India!
+
+---
+
+🌤️ **Detailed Weather Report for Chennai, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 27.9°C / Min 23.6°C
+
+* 💨 **Wind Speed**: 8.5 km/h
+
+* ☔ **Precipitation**: 1.8 mm
+
+* ☀️ **UV Index**: 5.65
+
+* 🌅 **Sunrise**: 06:30
+
+* 🌇 **Sunset**: 17:53
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 28.0°C / 24.2°C, Wind: 9.1 km/h
+
+**2026-01-02**: 29.2°C / 23.4°C, Wind: 10.8 km/h
+
+**2026-01-03**: 29.0°C / 23.2°C, Wind: 11.5 km/h
+
+
+------------------------------------------------------------
+
+[13] YOU:
+What is the current temperature in Bangalore?
+------------------------------------------------------------
+
+[14] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Bengaluru, India. Today's temperature will range from a low of 16.5°C to a high of 27.1°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 6.6 km/h, and the UV index is 7.4, so make sure to wear sunscreen if you're heading outdoors. Have a great day in Bengaluru, India!
+
+---
+
+🌤️ **Detailed Weather Report for Bengaluru, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 27.1°C / Min 16.5°C
+
+* 💨 **Wind Speed**: 6.6 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 7.4
+
+* 🌅 **Sunrise**: 06:41
+
+* 🌇 **Sunset**: 18:03
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 27.5°C / 18.6°C, Wind: 13.9 km/h
+
+**2026-01-02**: 27.0°C / 19.0°C, Wind: 11.5 km/h
+
+**2026-01-03**: 27.4°C / 17.4°C, Wind: 14.0 km/h
+
+
+------------------------------------------------------------
+
+[15] YOU:
+Are there any severe weather alerts in California right now?
+------------------------------------------------------------
+
+[16] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for California, United States. Today's temperature will range from a low of -1.8°C to a high of 9.2°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 21.3 km/h, and the UV index is 2.9, so UV exposure is minimal today. Have a great day in California, United States!
+
+---
+
+🌤️ **Detailed Weather Report for California, United States**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 9.2°C / Min -1.8°C
+
+* 💨 **Wind Speed**: 21.3 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 2.9
+
+* 🌅 **Sunrise**: 07:28
+
+* 🌇 **Sunset**: 16:58
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 3.8°C / -1.7°C, Wind: 17.6 km/h
+
+**2026-01-02**: 4.1°C / -2.7°C, Wind: 18.5 km/h
+
+**2026-01-03**: 4.9°C / -3.1°C, Wind: 11.0 km/h
+
+
+------------------------------------------------------------
+
+[17] YOU:
+Is it going to rain in London today?
+------------------------------------------------------------
+
+[18] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for London, United Kingdom. Today's temperature will range from a low of 0.4°C to a high of 3.7°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 10.5 km/h, and the UV index is 1.15, so UV exposure is minimal today. Have a great day in London, United Kingdom!
+
+---
+
+🌤️ **Detailed Weather Report for London, United Kingdom**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 3.7°C / Min 0.4°C
+
+* 💨 **Wind Speed**: 10.5 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 1.15
+
+* 🌅 **Sunrise**: 08:06
+
+* 🌇 **Sunset**: 16:01
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 5.6°C / 0.2°C, Wind: 18.6 km/h
+
+**2026-01-02**: 3.5°C / -0.4°C, Wind: 14.4 km/h
+
+**2026-01-03**: 1.6°C / -1.9°C, Wind: 13.7 km/h
+
+
+------------------------------------------------------------
+
+[19] YOU:
+mumbai weather report
+------------------------------------------------------------
+
+[20] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Mumbai, India. Today's temperature will range from a low of 21.9°C to a high of 25.6°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 8.9 km/h, and the UV index is 6.1, so make sure to wear sunscreen if you're heading outdoors. Have a great day in Mumbai, India!
+
+---
+
+🌤️ **Detailed Weather Report for Mumbai, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 25.6°C / Min 21.9°C
+
+* 💨 **Wind Speed**: 8.9 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 6.1
+
+* 🌅 **Sunrise**: 07:11
+
+* 🌇 **Sunset**: 18:11
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 24.9°C / 22.6°C, Wind: 17.3 km/h
+
+**2026-01-02**: 25.4°C / 22.8°C, Wind: 20.6 km/h
+
+**2026-01-03**: 25.6°C / 23.3°C, Wind: 19.1 km/h
+
+
+------------------------------------------------------------
+
+[21] YOU:
+assam wether report
+------------------------------------------------------------
+
+[22] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Assam, Cameroon. Today's temperature will range from a low of 24.2°C to a high of 33.7°C. You can expect some precipitation today, with about 4.0mm of rainfall, so don't forget your umbrella! The wind will be blowing at 8.4 km/h, and the UV index is 7.85, so make sure to wear sunscreen if you're heading outdoors. Have a great day in Assam, Cameroon!
+
+---
+
+🌤️ **Detailed Weather Report for Assam, Cameroon**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 33.7°C / Min 24.2°C
+
+* 💨 **Wind Speed**: 8.4 km/h
+
+* ☔ **Precipitation**: 4.0 mm
+
+* ☀️ **UV Index**: 7.85
+
+* 🌅 **Sunrise**: 06:32
+
+* 🌇 **Sunset**: 18:19
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 34.1°C / 23.6°C, Wind: 5.3 km/h
+
+**2026-01-02**: 33.2°C / 23.9°C, Wind: 6.5 km/h
+
+**2026-01-03**: 33.1°C / 22.7°C, Wind: 6.2 km/h
+
+
+------------------------------------------------------------
+
+[23] YOU:
+kolkata
+------------------------------------------------------------
+
+[24] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Calcutta, India. Today's temperature will range from a low of 10.4°C to a high of 19.2°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 7.1 km/h, and the UV index is 5.55, so some sun protection would be wise. Have a great day in Calcutta, India!
+
+---
+
+🌤️ **Detailed Weather Report for Calcutta, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 19.2°C / Min 10.4°C
+
+* 💨 **Wind Speed**: 7.1 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 5.55
+
+* 🌅 **Sunrise**: 06:16
+
+* 🌇 **Sunset**: 17:02
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 21.9°C / 10.6°C, Wind: 7.0 km/h
+
+**2026-01-02**: 23.1°C / 12.6°C, Wind: 6.8 km/h
+
+**2026-01-03**: 23.4°C / 14.7°C, Wind: 7.4 km/h
+
+
+------------------------------------------------------------
+
+[25] YOU:
+patana
+------------------------------------------------------------
+
+[26] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Patana, Finland. Today's temperature will range from a low of -14.1°C to a high of -8.7°C. You can expect some precipitation today, with about 0.6mm of rainfall, so don't forget your umbrella! The wind will be blowing at 4.3 km/h, and the UV index is 0.15, so UV exposure is minimal today. Have a great day in Patana, Finland!
+
+---
+
+🌤️ **Detailed Weather Report for Patana, Finland**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max -8.7°C / Min -14.1°C
+
+* 💨 **Wind Speed**: 4.3 km/h
+
+* ☔ **Precipitation**: 0.6 mm
+
+* ☀️ **UV Index**: 0.15
+
+* 🌅 **Sunrise**: 10:04
+
+* 🌇 **Sunset**: 14:50
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: -12.9°C / -14.1°C, Wind: 11.9 km/h
+
+**2026-01-02**: -11.8°C / -13.2°C, Wind: 18.0 km/h
+
+**2026-01-03**: -11.9°C / -14.2°C, Wind: 15.8 km/h
+
+
+------------------------------------------------------------
+
+[27] YOU:
+amritasar
+------------------------------------------------------------
+
+[28] RATNESH AI WEATHER AGENT:
+❌ Sorry, I couldn't find weather data for 'amritasar'. Please check the city name and try again.
+------------------------------------------------------------
+
+[29] YOU:
+Amritsar punjab india weather report
+------------------------------------------------------------
+
+[30] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Amritsar, India. Today's temperature will range from a low of 7.1°C to a high of 13.5°C. You can expect some precipitation today, with about 2.8mm of rainfall, so don't forget your umbrella! The wind will be blowing at 8.1 km/h, and the UV index is 2.85, so UV exposure is minimal today. Have a great day in Amritsar, India!
+
+---
+
+🌤️ **Detailed Weather Report for Amritsar, India**
+
+📅 **Date**: 2025-12-31
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 13.5°C / Min 7.1°C
+
+* 💨 **Wind Speed**: 8.1 km/h
+
+* ☔ **Precipitation**: 2.8 mm
+
+* ☀️ **UV Index**: 2.85
+
+* 🌅 **Sunrise**: 07:29
+
+* 🌇 **Sunset**: 17:37
+
+
+**3-Day Forecast:**
+
+**2026-01-01**: 16.3°C / 9.4°C, Wind: 5.8 km/h
+
+**2026-01-02**: 17.0°C / 7.0°C, Wind: 6.8 km/h
+
+**2026-01-03**: 17.4°C / 7.5°C, Wind: 6.2 km/h
+
+
+------------------------------------------------------------
+
+[31] YOU:
+gauhawti weather report
+------------------------------------------------------------
+
+[32] RATNESH AI WEATHER AGENT:
+❌ Sorry, I couldn't find weather data for 'gauhawti'. Please check the city name and try again.
+------------------------------------------------------------
+
+[33] YOU:
+hongkong 
+------------------------------------------------------------
+
+[34] RATNESH AI WEATHER AGENT:
+❌ Sorry, I couldn't find weather data for 'hongkong'. Please check the city name and try again.
+------------------------------------------------------------
+
+[35] YOU:
+Hongkong China weather report
+------------------------------------------------------------
+
+[36] RATNESH AI WEATHER AGENT:
+❌ Sorry, I couldn't find weather data for 'Hongkong China'. Please check the city name and try again.
+------------------------------------------------------------
+
+[37] YOU:
+Hong kong 
+------------------------------------------------------------
+
+[38] RATNESH AI WEATHER AGENT:
+Hello! Here's the weather update for Hong Kong. Today's temperature will range from a low of 15.5°C to a high of 21.3°C. Good news - no rain is expected today, so you can leave your umbrella at home! The wind will be blowing at 19.4 km/h, and the UV index is 4.25, so some sun protection would be wise. Have a great day in Hong Kong!
+
+---
+
+🌤️ **Detailed Weather Report for Hong Kong**
+
+📅 **Date**: 2026-01-01
+
+**Today's Forecast:**
+
+* 🌡️ **Temperature**: Max 21.3°C / Min 15.5°C
+
+* 💨 **Wind Speed**: 19.4 km/h
+
+* ☔ **Precipitation**: 0.0 mm
+
+* ☀️ **UV Index**: 4.25
+
+* 🌅 **Sunrise**: 07:02
+
+* 🌇 **Sunset**: 17:50
+
+
+**3-Day Forecast:**
+
+**2026-01-02**: 16.7°C / 12.5°C, Wind: 22.2 km/h
+
+**2026-01-03**: 16.4°C / 12.1°C, Wind: 12.0 km/h
+
+**2026-01-04**: 19.7°C / 14.5°C, Wind: 17.5 km/h
+
+
+------------------------------------------------------------
+

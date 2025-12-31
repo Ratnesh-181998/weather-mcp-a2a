@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Is it going to rain in London today?"
+  },
+  {
+    "role": "assistant",
+    "content": "Thought: I now know the final answer\nFinal Answer: No, it is not going to rain in London today. The forecast shows 0.0mm of precipitation for today."
+  }
+]
