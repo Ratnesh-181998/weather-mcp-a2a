@@ -42,6 +42,11 @@ The command center of the application.
 ![App User Interface](assets/app_mockup.png)
 *Figure: High-Definition view of the Smart Weather Dashboard.*
 
+> **⚡ See it in Action:**
+>
+> ![Live Demo](assets/demo_video.webp)
+
+
 
 ### 2. ℹ️ About Project (Educational Hub)
 A detailed breakdown of the paradigm shift in AI.
