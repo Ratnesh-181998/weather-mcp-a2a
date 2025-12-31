@@ -15,12 +15,14 @@
 The **Weather MCP Agent** is a state-of-the-art implementation of the **Model Context Protocol (MCP)**, designed to demonstrate the future of AI interoperability. Unlike traditional chatbots that hallucinate data, this agent uses a standardized protocol to "connect" to live tools—fetching real-time weather forecasts, alerts, and atmospheric analytics for **any city on Earth**.
 
 Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-instant inference, this system showcases how **Agentic AI** can orchestrate complex workflows (Geocoding -> Weather API -> Conversational Synthesis) in milliseconds.
+
 ---
 ## 🌐🎬 Live Demo
 🚀 **Try it now:**
 - **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
 - **Project Demo** - https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/
 ---
+
 ### 🌟 Key Capabilities
 *   **🌍 Global Coverage**: Instant weather intelligence for 100,000+ cities worldwide.
 *   **⚡ Hyper-Fast Inference**: Uses Llama 3 70B on Groq LPUs for sub-second reasoning.
