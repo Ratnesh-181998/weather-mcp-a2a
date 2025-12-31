@@ -48,11 +48,20 @@ Transparency in engineering.
 *   **Frontend**: Streamlit Async Runtime, Custom CSS theming.
 *   **Connectivity**: `mcp-use` Client, `requests` library, RESTful APIs (Open-Meteo, NWS).
 
-### 4. 🏗️ Architecture (System Design)
+
+### 5. 🏗️ Architecture (System Design)
 Enterprise-grade visualization of the system.
 *   **Data Flow**: `User -> Streamlit -> Agent -> MCP Client -> Tool -> Response`.
 *   **Graphviz Charts**: Dynamically generated DAGs (Directed Acyclic Graphs) of the agent's logic.
 *   **Network Topology**: Visualizing how the Host, Client, and Server interact.
+
+#### System Visualization
+![Architecture Overview](assets/mcp_combined.png)
+*Figure 1: High-Level System Architecture bridging User, Agent, and MCP Tools.*
+
+![MCP Flow](assets/mcp_flow.png)
+*Figure 2: Detailed Data Flow from User Input to Tool Execution.*
+
 
 ### 5. 📋 System Logs (Observability)
 Production-ready monitoring.
@@ -157,7 +166,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Community
 
 **Ratnesh Kumar Singh**  
-*Data Scientist | AI Agent Architect*
+*Data Scientist (AI/Ml Engineer 4+ Yrs Exp)*
 
 *   💼 **LinkedIn**: [ratneshkumar1998](https://www.linkedin.com/in/ratneshkumar1998/)
 *   🐙 **GitHub**: [Ratnesh-181998](https://github.com/Ratnesh-181998)
