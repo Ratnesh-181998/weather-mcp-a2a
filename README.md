@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *   💼 **LinkedIn**: [ratneshkumar1998](https://www.linkedin.com/in/ratneshkumar1998/)
 *   🐙 **GitHub**: [Ratnesh-181998](https://github.com/Ratnesh-181998)
-*   🌐 **Live Demo**: [Streamlit Cloud App](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+*   🌐 **Live Demo**: [Streamlit Cloud App](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
 
 ### Project Links
 *   📖 **Documentation**: [GitHub Wiki](https://github.com/Ratnesh-181998/weather-mcp-a2a/wiki)
