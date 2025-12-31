@@ -28,6 +28,7 @@ Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-
 ## 🎮 Interface & Features by Tab
 
 The application is structured into 5 professional modules, each serving a specific purpose in the Agentic workflow:
+<img width="1888" height="789" alt="image" src="https://github.com/user-attachments/assets/9c6ee46b-c429-4771-b341-bbe7ea3bc4f5" />
 
 ![Weather MCP Agent UI](assets/app_mockup.png)
 
