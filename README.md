@@ -54,6 +54,14 @@ The command center of the application.
 >
 > ![Live Demo](assets/demo_video.webp)
 
+<img width="1793" height="766" alt="image" src="https://github.com/user-attachments/assets/9a528f19-6531-4b96-a593-cec93644fc04" />
+<img width="1331" height="613" alt="image" src="https://github.com/user-attachments/assets/a524fad0-c9de-495b-9bf9-d88ef66a0f04" />
+<img width="1294" height="612" alt="image" src="https://github.com/user-attachments/assets/5ccdb062-f609-4f27-8737-947f7db6058a" />
+<img width="1365" height="751" alt="image" src="https://github.com/user-attachments/assets/063d7303-0e96-4dff-a152-ee5651ac0948" />
+<img width="1332" height="656" alt="image" src="https://github.com/user-attachments/assets/7441c4df-81c2-4eef-b479-394bbc6346c4" />
+<img width="1359" height="779" alt="image" src="https://github.com/user-attachments/assets/9b597c1a-af8d-45b1-adb8-c7b3c2944115" />
+<img width="1267" height="597" alt="image" src="https://github.com/user-attachments/assets/0f91c507-c9aa-4b80-98cb-0c2027d18c5d" />
+<img width="1375" height="687" alt="image" src="https://github.com/user-attachments/assets/09b4bbff-b6aa-4b98-acca-0ac9825cd4d2" />
 
 
 ### 2. ℹ️ About Project (Educational Hub)
